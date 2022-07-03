@@ -1,0 +1,28 @@
+8.乘风规则 https://cdn.jsdelivr.net/gh/xinggsf/Adblock-Plus-Rule@master/rule.txt
+
+复制下面规则链接导入到浏览器规则文件
+
+AdRules 查看链接 (该规则合并自My AdFilters（for PC）、EdentwCustom、adgk、ClearUrl等，并补充了一些规则)
+https://cats-team.coding.net/p/adguard/d/AdRules/git/raw/main/adblock.txt
+abpmerge 查看链接 (合并自AdFilters，adgk，jiekouAD)
+https://damengzhu.coding.net/p/banad/d/abpmerge/git/raw/main/abpmerge.txt
+1.AdGuard 基础规则 查看链接
+
+2.AdGuard 移动广告规则 查看链接
+
+3.AdGuard 中文规则 查看链接
+
+4.EasyList China 查看链接 (EasyList的中文补充规则)
+https://easylist-downloads.adblockplus.org/easylistchina.txt
+5.AdFilters 查看链接
+https://halflife.coding.net/p/list/d/list/git/raw/master/ad3.txt
+6.ADgk 查看链接
+https://cdn.jsdelivr.net/gh/banbendalao/ADgk@master/ADgk.txt
+7.jiekouAD 屏蔽盗版网站广告规则 查看链接
+https://damengzhu.coding.net/p/banad/d/banad/git/raw/main/jiekouAD.txt
+8.乘风规则 查看链接
+https://cdn.jsdelivr.net/gh/xinggsf/Adblock-Plus-Rule@master/rule.txt
+9.EasyList 查看链接 (英文主要规则)
+https://easylist-downloads.adblockplus.org/easylist.txt
+10.I don't care about cookies 查看链接 （屏蔽网站的 cookies 相关的警告）
+https://www.i-dont-care-about-cookies.eu/abp/

@@ -1,0 +1,6 @@
+http://www.mikkk.xyz/bb.json
+
+
+
+https://cdn.jsdelivr.net/gh/Cyril0563/lanjing_live@main/hd/live_plus.json
+https://cdn.jsdelivr.net/gh/Cyril0563/lanjing_live@main/hk/live_plus.json
